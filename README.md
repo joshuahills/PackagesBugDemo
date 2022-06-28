@@ -2,7 +2,7 @@
 
 This is a sample application showcasing an issue I'm currently having with a WPF application that uses the Microsoft.NET.Sdk.Web SDK.
 
-More info: (https://developercommunity.visualstudio.com/t/Package-dependencies-disappear-on-build/10074434?space=8&entry=problem)[https://developercommunity.visualstudio.com/t/Package-dependencies-disappear-on-build/10074434?space=8&entry=problem]
+More info: [https://developercommunity.visualstudio.com/t/Package-dependencies-disappear-on-build/10074434?space=8&entry=problem](https://developercommunity.visualstudio.com/t/Package-dependencies-disappear-on-build/10074434?space=8&entry=problem)
 
 ## Reproduce
 
