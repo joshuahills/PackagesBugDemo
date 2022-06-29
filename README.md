@@ -11,7 +11,7 @@ More info: [https://developercommunity.visualstudio.com/t/Package-dependencies-d
 3. Press F5 to debug - everything should build and run without issue
 4. Stop debugging
 5. Rebuild the solution/project from the Solution Explorer
-6. Observe red squiggles for NLog's LogManager in `app.xaml.cs` and errors in the Error List.
+6. Observe red squiggles for NLog's LogManager in `app.xaml.cs` and errors in the Error List. The `Packages` node under `Dependencies` in the Solution Explorer should have disappeared.
 
 ## Things I've tried
 
